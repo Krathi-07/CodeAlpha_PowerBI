@@ -5,6 +5,16 @@ This repository contains Power BI dashboards created during CodeAlpha internship
 
 ---
 
+## Tasks Status
+| Task | Status |
+|------|--------|
+| Task 1 - Financial Health | ⏳ Coming Soon |
+| Task 2 - HR Analytics | ✅ Completed |
+| Task 3 - Real Estate | ✅ Completed |
+| Task 4 - Educational Performance | ⏳ Coming Soon |
+
+---
+
 ## Task 3 - Real Estate Market Trends 🏠
 **Dataset:** USA Real Estate Dataset (2.2M+ entries)
 
@@ -19,10 +29,16 @@ This repository contains Power BI dashboards created during CodeAlpha internship
 
 ---
 
-## Tasks Status
-| Task | Status |
-|------|--------|
-| Task 1 - Financial Health | ⏳ Coming Soon |
-| Task 2 - HR Analytics | ⏳ Coming Soon |
-| Task 3 - Real Estate | ✅ Completed |
-| Task 4 - Educational Performance | ⏳ Coming Soon |
+## Task 2 - HR Analytics 👥
+**Dataset:** IBM HR Employee Attrition Dataset (Kaggle)
+
+### Dashboard Includes:
+- KPI Cards (Total Employees, Attrition Rate %, Avg Monthly Income)
+- Bar Chart (Attrition by Department)
+- Pie Chart (Gender Distribution)
+- Line Chart (Age vs Monthly Income)
+- Table (Employee Details)
+
+[Download Dashboard (.pbix)](./Task2_HR%20Analytics.pbix)
+
+---
